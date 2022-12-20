@@ -62,6 +62,9 @@
 <li>
 <p>Usage Data</p>
 </li>
+  <li>
+<p>Live Location to track delivery process</p>
+</li>
 </ul>
 <h3>Usage Data</h3>
 <p>Usage Data is collected automatically when using the Service.</p>
