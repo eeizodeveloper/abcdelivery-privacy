@@ -66,6 +66,8 @@
 <p>Live Location to track delivery process</p>
 </li>
 </ul>
+<h3>Location</h3>
+<p>While using Our Service, We may ask You to provide Us with permission to access your location incase you are a rider just to track the delivery process. We don't process this data for any other means.</p>
 <h3>Usage Data</h3>
 <p>Usage Data is collected automatically when using the Service.</p>
 <p>Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
