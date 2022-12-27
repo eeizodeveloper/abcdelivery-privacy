@@ -1,4 +1,4 @@
-<h1>ABCDelivery Privacy Notice<h1>
+<h1>ABCDelivery Privacy Notice</h1>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 
 <h2>I. Introduction</h2>
@@ -6,23 +6,18 @@
 <p>This notice describes the personal data (“data”) we collect, how it’s used and shared, and your choices regarding this data. We recommend that you read this, which highlights key points about our privacy practices.</p>
 
 <h2>II. Overview</h2>
-<h3>A. Scope<h3>
+<h3>A. Scope</h3>
 <p>This notice applies to users of ABCDelivery’s services anywhere in the world, including users of ABCDelivery’s apps, websites, features, or other services.</p>
 <p>This notice describes how ABCDelivery collect and use data. This notice applies to all ABCDelivery users. This notice specifically applies to:</p>
 <ul>
-<li><p>vendorss: individuals who request or receive parcel delivery and related services via their ABCDelivery account.<li><p>
-<li><p>Order recipients: individuals who request or receive food or other products and services for delivery or pick-up via their ABCDelivery account.<li><p>
-<li><p>Delivery persons: individuals who provide delivery services via ABCDelivery.<li><p> 
+<li><p>vendorss: individuals who request or receive parcel delivery and related services via their ABCDelivery account.</li></p>
+<li><p>Order recipients: individuals who request or receive food or other products and services for delivery or pick-up via their ABCDelivery account.</li></p>
+<li><p>Delivery persons: individuals who provide delivery services via ABCDelivery.</li></p> 
 </ul>
 <p>This notice also governs ABCDelivery’s other collections of data in connection with its services. For example, we may collect the contact information of owners or employees of restaurants or other merchants on the ABCDelivery platform; the contact information of individuals that manage and use accounts owned by Enterprise Customers; or data of individuals who start but do not complete their applications to be drivers or delivery persons.</p>
 <p>All those subject to this notice are referred to as “users” in this notice.</p>
 <p>Our privacy practices are subject to applicable laws in the places in which we operate. This means that we engage in the practices described in this notice in a particular country or region only if permitted under the laws of those places.</p>
 <p>Please write us at with any questions regarding our practices in a particular country or region.</p>
-
-
-
-
-
 <p>ABCDelivery operates, and processes personal data; wherever and whenever you travel, your data travels with you so we can offer you a seamless experience. We also respect your data protection rights no matter where ever you are.</p>
 <p>We never transfer personal data to countries other than your home country. Because our services involve multiple users at the same time but within just Pakistan now, so not even limited personal data can be accessible to the other user in another country.</p>
 <p>We do so in order to fulfill our agreements with all of our users, or based on users’ instructions or prior consent, adequacy decisions, or other transfer mechanisms as may be available under applicable law, such as the Standard Contractual Clauses.</p>
@@ -46,10 +41,10 @@
 <ul>
 <li><p>User profile information: We collect data when users create or update their ABCDelivery accounts. This may include their name, email, phone number, login name and password, address, profile picture. This also includes information of drivers and delivery persons, user settings to provide services using ABCDelivery apps.</p></li>
 </ul>
-<p>2. Data created during use of our services. This includes:<p>
+<p>2. Data created during use of our services. This includes:</p>
 <ul> 
 <li><p>Location data (delivery person): We collect precise or approximate location data from delivery persons’ mobile devices when the ABCDelivery app is running in the foreground (app open and on-screen) or background (app open but not on-screen).</p></li>
-<li><p>Location data (vendorss and order recipients). We collect precise or approximate location information from vendorss’ and order recipients’ mobile devices if they enable us to do so via their device settings.<p/></li>
+<li><p>Location data (vendorss and order recipients). We collect precise or approximate location information from vendorss’ and order recipients’ mobile devices if they enable us to do so via their device settings.</p></li>
 </ul>
 
 <p>ABCDelivery collects such data from the time a ride or order is requested until it is finished, and any time the app is running in the foreground (app open and on-screen). See “Choice and transparency” below for information on how vendorss and order recipients can enable precise location data collection.</p>
@@ -63,7 +58,7 @@
 </ul>
 
 
-<p>B. How we use personal data</p>
+<h3>B. How we use personal data</h3>
 <p><i>ABCDelivery uses data to enable reliable and convenient delivery, and other products and services. We also use such data:</i></p>
 <ul>
 <li><p>to enhance the safety and security of our users and services</li></p>
