@@ -1,11 +1,12 @@
 <h1>ABCDelivery Privacy Notice</h1>
+
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 
 <h2>I. Introduction</h2>
 <p>When you use ABCDelivery, you trust us with your personal data. We’re committed to keeping that trust. That starts with helping you understand our privacy practices.</p>
 <p>This notice describes the personal data (“data”) we collect, how it’s used and shared, and your choices regarding this data. We recommend that you read this, which highlights key points about our privacy practices.</p>
-
 <h2>II. Overview</h2>
+
 <h3>A. Scope</h3>
 <p>This notice applies to users of ABCDelivery’s services anywhere in the world, including users of ABCDelivery’s apps, websites, features, or other services.</p>
 <p>This notice describes how ABCDelivery collect and use data. This notice applies to all ABCDelivery users. This notice specifically applies to:</p>
@@ -46,18 +47,13 @@
 <li><p>Location data (delivery person): We collect precise or approximate location data from delivery persons’ mobile devices when the ABCDelivery app is running in the foreground (app open and on-screen) or background (app open but not on-screen).</p></li>
 <li><p>Location data (vendorss and order recipients). We collect precise or approximate location information from vendorss’ and order recipients’ mobile devices if they enable us to do so via their device settings.</p></li>
 </ul>
-
 <p>ABCDelivery collects such data from the time a ride or order is requested until it is finished, and any time the app is running in the foreground (app open and on-screen). See “Choice and transparency” below for information on how vendorss and order recipients can enable precise location data collection.</p>
-
 <p>vendors and order recipients may use the ABCDelivery apps without enabling collection of location data from their mobile devices. However, this may affect certain features in the ABCDelivery apps. For example, a vendors who has not enabled precise location data will have to manually enter their pickup address.</p>
-
 <p>In addition, precise location data collected from a driver’s device during a trip is linked to the vendors’s account, even if the vendors has not enabled precise location data to be collected from their device. This data is used for purposes such as receipt generation, customer support, fraud detection, insurance, and litigation.</p>
 <ul>
 <li><p>We need it for specific purposes such as date and time, requested pick-up and drop off addresses, distance traveled and items ordered.</p></li>
 <li><p>Usage data: We collect data about how users interact with our services. This includes access dates and times, app features or pages viewed, browser type, and app crashes and other system activity.</p></li>
 </ul>
-
-
 <h3>B. How we use personal data</h3>
 <p><i>ABCDelivery uses data to enable reliable and convenient delivery, and other products and services. We also use such data:</i></p>
 <ul>
@@ -71,7 +67,6 @@
 </ul>
 <p>We use the data we collect:</p>
 <p>To provide our services. ABCDelivery uses data to provide, personalize, maintain, and improve our services.</p>
-
 <p>This includes using data to:</p>
 <ul>
 <li><p>create/update accounts.</p></li>
@@ -84,28 +79,21 @@
 </ul>
 <li><p>perform necessary operations to maintain our services, including to troubleshoot software bugs and operational problems.</p></li>
 </ul>
-
 <p>ABCDelivery performs the above activities on the grounds that they are necessary to fulfill the terms of our agreements with users, are compatible with such uses, or on the grounds that they are necessary for purposes of ABCDelivery’s and its users’ legitimate interests.</p>
 <p>2. Safety and security. We use data to help maintain the safety, security, and integrity of our services and users.</p>
 <p>3. Research and development. We use data for testing, research, analysis, product development to improve the user experience. This helps us make our services more convenient and easy-to-use, enhance the safety and security of our services, and develop new services and features.</p>
-
 <p>ABCDelivery performs the above activities on the grounds that they are necessary for purposes of ABCDelivery’s legitimate interests in improving and developing new services and features.</p>
 <p>4. Enabling communications between users. For example, a driver may message or call a vendors to confirm a pick-up location, a vendors may call a driver to retrieve a lost item, or a restaurant or delivery person may contact an order recipient with information about their order.</p>
-
 <p>ABCDelivery performs the above activities on the grounds that they are necessary to fulfill the terms of our agreements with users.</p>
 <p>5. Legal proceedings and requirements. We use data to investigate or address claims or disputes relating to use of ABCDelivery’s services, to satisfy requirements under applicable laws, regulations, or operating licenses or agreements, or pursuant to legal process or governmental request, including from law enforcement.</p>
-
 <p>ABCDelivery performs the above activities on the grounds that they are necessary for purposes of ABCDelivery’s legitimate interests in investigating and responding to claims and disputes relating to use of ABCDelivery’s services and features, and/or necessary for compliance with applicable legal requirements.</p>
-
-
 <p>C. Cookies and third-party technologies</p>
 <p>ABCDelivery and its partners use cookies and other identification technologies on our apps for purposes described in this notice.</p>
 <p>Cookies are small text files that are stored on browsers or devices by websites, apps, online media, and advertisements. ABCDelivery uses cookies and similar technologies for purposes such as:</p>
 <ul>
 <li><p>authenticating users</p></li>
 <li><p>remembering user preferences and settings</p></li>
-
-
+</ul>
 <p>D. Data sharing and disclosure</p>
 <p>Some of ABCDelivery’s services and features require that we share data with other users or at a user’s request.</p>
 <p>ABCDelivery may share data:</p>
@@ -117,12 +105,7 @@
 <li><p>order recipients’ first name, delivery address, and order information with the restaurant or merchant and, for order deliveries, with the delivery person.</p></li>
 <li><p>for delivery persons, we may share data with the vendor(s), order recipient(s) and restaurants or merchants, including name; location (before and during trip); contact information.</p></li>
 </ul>
-
 <p>We also provide vendors and order recipients with delivery person first name and route map.</p>
-
-
-
-
 <p>E. Data retention and deletion</p>
 <p><i>ABCDelivery retains user data for as long as necessary for the purposes described above, including to <u>provide its services and comply with legal obligations.</u></i></p>
 <p>ABCDelivery retains user data for as long as necessary for the purposes described above. The period for which we retain user data is determined by the type of data, the category of user to whom the data relates, and the purposes for which we collected the data.</p>
@@ -137,22 +120,18 @@
 <p>Users may request deletion of their accounts at any time. ABCDelivery may retain user data after a deletion request due to legal or regulatory requirements or for reasons stated in this policy.</p>
 <p>Users may request deletion of their account at any time by just sending an email.</p>
 <p>Following an account deletion request, ABCDelivery deletes the user’s account and data, unless they must be retained due to legal or regulatory requirements, for purposes of safety, security, and fraud prevention, or because of an issue relating to the user’s account such as an outstanding credit or an unresolved claim or dispute. Because we are subject to legal and regulatory requirements relating to drivers and delivery persons, this generally means that we retain their account and data for the applicable statutory retention period after a deletion request. For vendors and order recipients, their data is generally deleted within 90 days of a deletion request, except where retention is necessary for the above reasons.</p>
-
 <h2>IV. Choice and transparency</h2>
+
 <p>ABCDelivery enables users to access and/or control data that ABCDelivery collects, including through:</p>
 <ul>
 <li><p>privacy settings</p></li>
 <li><p>device permissions</p></li>
 </ul>
 <p>ABCDelivery also enables users to request access to or copies of their data, make changes or updates to their accounts, request deletion of their accounts, or request that ABCDelivery restrict its processing of user data.</p>
-
 <p><b>Device permissions</b></p>
-
 <p>Most mobile device platforms (iOS, Android, etc.) have defined certain types of device data that apps cannot access without the device owner’s permission, and these platforms have different methods for how that permission can be obtained. Please check the available settings on your device or check with your provider.</p>
+<h2>V. Updates to this notice</h2>
 
-<p>V. Updates to this notice</p>
 <p>We may occasionally update this notice.</p> 
 <p>We may occasionally update this notice. If we make significant changes, we will notify users in advance of the changes through the ABCDelivery apps or through other means, such as email. We encourage users to periodically review this notice for the latest information on our privacy practices.</p>
 <p>Use of our services after an update constitutes consent to the updated notice to the extent permitted by law.</p>
-
-
